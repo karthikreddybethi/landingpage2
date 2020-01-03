@@ -1,0 +1,115 @@
+body {
+    text-align: center;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    /* background-color: hsl(233,100%,69%); */
+    margin:0;
+    background-image: url("bg-header-desktop.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100% ;
+    
+}
+a {
+    text-decoration: none;
+    padding: 10px;
+    
+
+}
+.btn1 {
+    padding: 15px 40px;
+    border-radius: 30px;
+    border: none;
+    background-color: hsl(171,66%,44%);
+    color: white;
+    margin-top: 50px;
+    
+
+}
+.btn2 {
+    padding: 15px 40px;
+    border-radius: 30px;
+    border: none;
+    background-color: hsl(233,100%,69%);
+    color: white;
+    margin-top: 50px;
+}
+.box-1 {
+    
+    padding-top:100px ;
+    width: 80%;
+    margin: auto;
+    
+} 
+.box-2 {
+    width: 70%;
+    margin: 100px auto;
+
+}
+.image {
+    float: left;
+    margin-right: 70px;
+    margin-left: 100px;
+}
+.box-3 {
+    width: 80%;
+    text-align: left;
+    padding-bottom: 300px;
+    
+}
+.box-4 {
+    /* margin-right: 100px; */
+    width: 60%;
+    margin: auto;
+    line-height: 2;
+}
+.box-4 img {
+    padding-top: 100px;
+}
+.box-5 {
+    width: 60%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.icon-box1 {
+    display: inline-block;
+    width: 30%;
+}
+.icon-box2 {
+    display: inline-block;
+    width: 30%;
+}
+.icon-box3 {
+    display: inline-block;
+    width: 30%;
+}
+.test-box {
+    margin: 150px 0;
+    padding: 0px 100px;
+}
+.box-4 {
+    width: 60%;
+    margin: auto;
+}
+.bottom-container {
+    background-color: rgb(227, 228, 231);
+    margin-top: 100px;
+    
+}
+.ft-logo {
+    float: left;
+    padding-left: 30px ;
+    padding-top:50px
+}
+.ft-details {
+    width: 50%;
+    text-align: left;
+    padding-left: 300px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.ft-det {
+    padding: 40px;
+    color: grey;
+}
